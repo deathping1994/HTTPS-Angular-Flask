@@ -15,17 +15,20 @@ Place newly generated key and crt file in angular-frontend and also in flask-bac
   1.clone this repo.
   2. `cd flask-backend && python app.py`  **// Imp. Minimum Python version required is 3.0    
 
+
 ###Running Front-end
   1. Go to root of this repo
   2. `cd angular-frontend && npm install`
   3. `bower install`
   4. `grunt serve`
-### Requirements:
+
+
+## Requirements:
   1. Nodejs >0.12
   2. npm >2.14
   3. python >3.0
 
-**For install instructions about nodejs and npm checkout this repo [why-I-lost-hair](https://github.com/deathping1994/why-I-lost-hair)
+**For install instructions about nodejs and npm checkout this repo [why-I-lost-hair](https://github.com/deathping1994/why-I-lost-hair)**
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
