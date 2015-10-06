@@ -8,7 +8,7 @@ Note: _For testing purpose self signed key were used_
 
 ## How to use
 
-** Replace server.key and server.crt with your actual keys. Follow this link to generate your own pair of key and crt file.**
+** Replace server.key and server.crt with your actual keys. Follow [this link](http://www.akadia.com/services/ssh_test_certificate.html) to generate your own pair of key and crt file.**
 Place newly generated key and crt file in angular-frontend and also in flask-backend folder.
 
 ###Running Back end
